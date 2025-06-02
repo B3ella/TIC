@@ -141,12 +141,14 @@ Um leitor de crachá com API pra configuração iDTouch Prox (R$ 251,54 na Magaz
 5 cabos de rede de 20 metros para conectar os APs ao switch (R$ 19,35 cada um na Amazon)
 
 Um dumb switch conectando todos os Aps ao servidor. tp link ls1008g (R$ 141,52 na kabum)
-**Para os funcionários:**
+### Para os funcionários:
 Notebook Lenovo Thinkpad E14 AMD Ryzen 3 7330U 8GB 256GB SSD pra cada pessoa da empresa (R$ 4003,99 na lenovo)
 
 Crucial 8GB DDR4-3200 SODIMM para cada notebook dos setores de marketing, design e diretoria (R$ 139,99 na kabum)
 
 Crucial P3 Plus 2TB PCIe M.2 2280 SSD para cada notebook do setor de design (R$ 935,00 na amazon)
+
+Fone JBL tune 125 BT (R$ 219,00 no site da JBL)
 ## 5. Considerações Finais
 ### Custos totais:
 #### Custos mensais
