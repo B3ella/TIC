@@ -134,7 +134,9 @@ Dois cabos HDMI pra conectar os notebooks às televisões quando necessário (R$
 
 Duas telas maiores (uma pro diretor e uma pra sala de reunião), Samsung Smart TV 65" Crystal UHD 4K 65DU8000 (R$ 3419,00 cada uma na Magazine Luiza)
 
+### Controle de acesso
 Um leitor de crachá com API pra configuração iDTouch Prox (R$ 251,54 na Magazine Luiza)
+100 Cartões RFID: 239,90 na magazine luiza
 ### Redes:
 4 TP Link Archer C7 Como pontos de acesso em cada sala (uma sala de reunião, uma sala para diretoria, uma pra RH e desenvolvimento web, uma pra marketing e design)(R$ 598,00 cada um no mercado livre)
 
@@ -165,7 +167,7 @@ Servidor local: R$ 7.379,00
 TVs e cabos HDMI: R$ 6876
 
 Leitor de crachá: R$ 251,54
-Preço dos crachás
+100 Cartões RFID: 239,90 na magazine luiza
 
 Redes: R$ 2620,27
 
