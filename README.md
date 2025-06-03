@@ -165,14 +165,15 @@ Servidor local: R$ 7.379,00
 TVs e cabos HDMI: R$ 6876
 
 Leitor de crachá: R$ 251,54
+Preço dos crachás
 
 Redes: R$ 2620,27
 
-Notebooks: R$ 76.057,00
+Notebooks: R$ 76.057,00 (preço do notebook * quantidade de funcionários)
 
-Melhoria de ram para diretoria, marketing e design: R$ 1119,92
+Melhoria de ram para diretoria, marketing e design: R$ 1119,92 (preço da melhoria de ram * quantidade de funcionários nos setores)
 
-Melhoria de ssd pro time de design: 2.805,00
+Melhoria de ssd pro time de design: (preço da melhoria de ssd * quantidade de funcionários nos setores)
 
 Total: 94.303,73
 
