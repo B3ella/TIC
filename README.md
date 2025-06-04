@@ -162,23 +162,51 @@ Cloud (AWS, Vercel) custos variam com a utilização
 
 total: 1591.19
 #### Custos iniciais
-Servidor local: R$ 7.379,00
+##### Servidor Local
+processador - R$ 2.749,99
 
-TVs e cabos HDMI: R$ 6876
+PLACA MÃE - R$ 515, 00 na Amazon
 
+RAM - R$ 799,99 na kabum
+
+SSD - R$ 2728,99 na kabum
+
+Fonte - R$ 509,99 na kabum
+
+Gabinete Office Husky 100 - R$ 79,90 na kabum
+
+Total: R$ 7.383,86
+##### Telas maiores
+TVs - R$ 6838,00 (duas TVs de 3.419 cada)
+
+cabos HDMI 37.80 (um pra cada TV, 18,90 cada)
+
+Total: 6.875,80
+##### Controle de entrada 
 Leitor de crachá: R$ 251,54
+
 100 Cartões RFID: 239,90 na magazine luiza
 
-Redes: R$ 2620,27
+Total: R$ 491,44
+##### Redes: 
+Dumb routers R$ 2.392,00 - (4 roteadores, um pra cada sala custando 598 cada)
 
-Notebooks: R$ 76.057,00 (preço do notebook * quantidade de funcionários)
+Cabos de rede R$ 96,75 - (5 cabos 19,35 cada)
 
-Melhoria de ram para diretoria, marketing e design: R$ 1119,92 (preço da melhoria de ram * quantidade de funcionários nos setores)
+Dumb switch 141,52
 
-Melhoria de ssd pro time de design: (preço da melhoria de ssd * quantidade de funcionários nos setores)
+Total: R$ 2.630,27
+##### Equipamento individual dos funcionários
+Notebooks: R$ 56.055,86 (4003,99 por notebook para 14 funcionários)
+Fones de ouvido: R$ 3.066 (219 por fone para 14 funcionários)
 
-Total: 94.303,73
+Melhoria de ram para diretoria, marketing e design: R$ 1119,92 (139,99 por cartucho para 8 funcionários)
 
+Melhoria de ssd pro time de design: R$ 2.805 (935,00 por ssd para 3 funcionários)
+
+Total: R$ 63.046,78
+##### Total 
+R$ 80.428,15
 ### Justificativa das escolhas feitas
 #### Notebooks
 Escolhemos os **thinkpads** pela possibilidade de melhoria para RAM e SSD, o que significa que a empresa pode usar o mesmo modelo de notebook com os setores necessários recebendo upgrades. Funcionários utilizando o mesmo modelo facilita a integração de hardware (para as TVs das salas de apresentação, por exemplo). 
