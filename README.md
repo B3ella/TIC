@@ -46,9 +46,75 @@ Serão apresentados os equipamentos físicos e os softwares essenciais de cada s
 #### Gestor de Recursos Humanos Estratégico 
 Responsável por atrair, engajar e desenvolver talentos alinhados à estratégia do negócio. Atua desde a seleção e employer branding até a definição de metas (OKRs), treinamento, remuneração e rotinas do departamento pessoal, garantindo uma gestão de pessoas eficiente e estratégica. Pensando no bem estar do trabalhador e da empresa.
 Utiliza ferramentas como sistemas de RH (como Gupy, Kenoby, Sólides ou Senior), plataformas de OKRs, ERPs, planilhas, softwares de folha de pagamento, além de apps de comunicação (Slack, Teams) e videoconferência (Zoom, Google Meet). E equipamentos tanto na empresa, como desktops quanto fora com notebook cuidando de manutenções, chamadas inesperadas ou trabalhos em casa (homeoffice).
-### **3 – Desenvolvimento Web (5 funcionários)**
-#### Desenvolvedores  
- Os desenvolvedores Full Stack são responsáveis por construir e manter toda a estrutura do site e do sistema de seguros da empresa. Atuam tanto na parte visual, que é acessada pelos usuários (front-end), quanto na parte que roda por trás do sistema, lidando com dados e lógica (back-end). Além disso, fazem atualizações frequentes, corrigem falhas e aplicam melhorias com base nos testes realizados e no feedback dos clientes e das demais equipes.
+### 3- Desenvolvedores Web (5 funcionários)
+
+Desenvolvedores Full Stack são profissionais que são estruturados para realizar etapas do desenvolvimento de software, desde a parte de interface visual (front-end) até a estrutura e lógica por trás do sistema back-end.
+
+- Desenvolvedor Sênior:
+
+Profissional apto com liderança e segurança com o conhecimento da área, pronto para realizar tarefas estratégicas e lideradas por ele, o pilar técnico, a referência para o resto da equipe, para liderar e mentorship de colegas menos experientes. Onde enfrentam desafios que testam criatividade e habilidade.
+
+Habilidades:
+	•	Responsável pela equipe
+	•	Implementação de sistemas da segurança
+	•	Arquitetura de Microserviços
+	•	Conhecimento avançado em pelo menos uma linguagem de programação, como Java, C#, Python ou JavaScript
+	•	Configurar uma pipeline de Continuous Integration & Continuous Delivery (CI/CD)
+	•	Desenvolver integrações, tais como sistemas de pagamento, envio de emails, SMS, entre outros
+	•	Avançado em Banco de Dados (Performance, escalabilidade, bancos não-SQL)
+
+- Desenvolvedor Junior:
+
+Profissional apto em ser suporte do Sênior, está para realizar tarefas mandadas pelo sênior, mas tarefas menores, como consertar bugs, manutenção de código existente e etc…
+
+Habilidades:
+	•	Lógica de programação
+	•	Estrutura de dados e algoritmos
+	•	Básico de alguma linguagem
+	•	Controle de versão (Git)
+	•	Conhecimento básico e geral de um Web Framework
+
+- Analista de dados:
+
+Profissional apto de coletar, interpretar e apresentar dados da empresa, que ajudam decisões técnicas e de produto, para extrair dados e insights úteis para responder perguntas de interesse sobre a empresa.
+
+Habilidades:
+	•	Manipulação de dados (Excel)
+	•	SQL / Python / linguagem R
+	•	Acessar banco de dados para recuperação de informações
+	•	Ler arquivos (CSV)
+	•	Consultar APIs e etc
+	•	Limpar dados (Pandas)
+	•	Análise de estatísticas sobre algoritmo do alcance da empresa (Extração de insights)
+	•	Montar visualização das informações extraídas (Tableau, Power BI, Looker Studio)
+
+- Administrador de sistemas:
+
+O responsável por cuidar da infraestrutura da empresa, como as configurações, máquinas, servidores, deploys, e o ambiente de produção, a integridade da empresa. Assim, ele protege e assegura que os recursos de tecnologia da informação estejam disponíveis na condição de uso para todos os desenvolvedores.
+
+Habilidades:
+	•	Conhecimentos gerais em redes e em Sistemas Operacionais
+	•	Automatização de tarefas
+	•	Monitoramento e segurança da infraestrutura
+	•	Conhecimento em Linux, Windows
+	•	Utilizar ferramentas de deploy (Docker, Kubernetes, Jenkins, GitHub)
+	•	Monitoramento (Grafana, Prometheus)
+	•	Gerenciamento (AWS, Azure, GCP)
+
+- Quality Assurance:
+
+Profissional responsável por garantir que o sistema funcione com excelência, sem bugs, com boa satisfação e forma confiável para os demais. Para isso ser executado, o profissional testa os sistemas antes de ir pro ar, automatiza testes, cria cenários, previne erros, e até ajuda o time a melhorar o produto. Garantindo o atendimento pleno do cliente e o funcionamento para os demais.
+
+Habilidades:
+	•	Capacidade de executar testes
+	•	Script e Programação
+	•	SQL e gerenciamento de BD
+	•	Automação web
+	•	Git
+	•	Métricas de bugs
+	•	Ferramentas de testes (Jira, Excel, Qase, Trello)
+	•	Estratégia de testes manuais, Selenium, Cypress
+	•	Ferramentas auxiliares: Figma (para conferir design), Postman (para APIs)
 ### **4 – Marketing (3 funcionários)**
 #### Coordenação de Marketing  
  Define campanhas, promoções e divulgação da marca. Supervisiona redes sociais, anúncios e conteúdos sobre a marca.
