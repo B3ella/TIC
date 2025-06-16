@@ -217,6 +217,8 @@ Crucial 8GB DDR4-3200 SODIMM para cada notebook dos setores de marketing, design
 Crucial P3 Plus 2TB PCIe M.2 2280 SSD para cada notebook do setor de design (R$ 935,00 na amazon)
 
 Fone JBL tune 125 BT (R$ 219,00 no site da JBL)
+## Redes
+## Segurança
 ## 5. Considerações Finais
 ### Custos totais:
 #### Custos mensais
