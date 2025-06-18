@@ -220,9 +220,11 @@ Fone JBL tune 125 BT (R$ 219,00 no site da JBL)
 ## Redes
 ## Segurança
 A segurança dos dados é tratada como prioridade na ClickSeguro. Por lidar com informações sensíveis de clientes e colaboradores, a empresa adota práticas e ferramentas específicas para evitar vazamentos e manter a confidencialidade, a integridade e a disponibilidade dos dados.
+### Senhas
+Para garantir a integridade das senhas usaremos um password manager, permitindo senhas complexas e aleatórias sem que nossos funcionários precisem memorizar qualquer uma delas.
 
+O password manager que escolhemos foi o Bitwarden, por ser open source ele pode ser executado no nosso servidor interno, acessível apenas na nossa rede privada.
 ### Dados Armazenados e Riscos Potenciais
-
 A ClickSeguro trabalha com diversos tipos de dados, cada um com um nível de sensibilidade específico:
 Dados de clientes: Incluem nome completo, telefone, e-mail e detalhes dos seguros contratados. Armazenados em banco de dados principal seguro na nuvem (AWS RDS, MySQL), com acesso restrito à equipe de desenvolvimento e diretoria. Um vazamento representaria um risco grave, expondo informações pessoais e comerciais a fraudes e spam direcionado.
 
@@ -238,7 +240,6 @@ Senhas e tokens de API: Informações críticas de acesso a sistemas, integraç�
 Prevenção de Vazamentos de Dados
 
 A ClickSeguro emprega medidas técnicas e administrativas robustas para proteger os dados:
-
 ### Medidas Técnicas:
 Criptografia de dados sensíveis em repouso e em trânsito.
 Autenticação em dois fatores (2FA) para acesso ao Google Workspace e sistemas internos.
