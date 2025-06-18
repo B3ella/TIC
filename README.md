@@ -219,6 +219,46 @@ Crucial P3 Plus 2TB PCIe M.2 2280 SSD para cada notebook do setor de design (R$ 
 Fone JBL tune 125 BT (R$ 219,00 no site da JBL)
 ## Redes
 ## Segurança
+A segurança dos dados é tratada como prioridade na ClickSeguro. Por lidar com informações sensíveis de clientes e colaboradores, a empresa adota práticas e ferramentas específicas para evitar vazamentos e manter a confidencialidade, a integridade e a disponibilidade dos dados.
+
+### Dados Armazenados e Riscos Potenciais
+
+A ClickSeguro trabalha com diversos tipos de dados, cada um com um nível de sensibilidade específico:
+Dados de clientes: Incluem nome completo, telefone, e-mail e detalhes dos seguros contratados. Armazenados em banco de dados principal seguro na nuvem (AWS RDS, MySQL), com acesso restrito à equipe de desenvolvimento e diretoria. Um vazamento representaria um risco grave, expondo informações pessoais e comerciais a fraudes e spam direcionado.
+
+Dados de navegação e comportamento: Coletados para análise interna (frequência de acesso, páginas visitadas, tempo de permanência), são armazenados em sistema de big data, com acesso limitado a analistas de dados, equipe de marketing e diretoria. Apesar de não conterem dados pessoais diretos, um vazamento poderia comprometer a privacidade ao permitir a criação de perfis de comportamento.
+
+Dados de funcionários: Registros de ponto, acesso a sistemas, uso de computadores e atividades digitais da empresa. Armazenados em banco de dados local com backup remoto, acessíveis apenas ao RH, diretoria e administrador de sistemas. A exposição poderia revelar hábitos, horários e comportamentos, infringindo a privacidade dos colaboradores.
+
+Código-fonte e sistema da empresa: O sistema da ClickSeguro (back-end e front-end) é armazenado em repositórios privados (GitHub) com acesso exclusivo à equipe de desenvolvimento e controle de qualidade. Um vazamento seria altamente prejudicial, possibilitando a cópia ou uso indevido da tecnologia interna.
+
+Relatórios financeiros e metas estratégicas (OKRs): Documentos armazenados no Google Workspace, acessíveis somente à diretoria e ao setor financeiro. A divulgação acarretaria riscos à estratégia de negócios e facilitaria ações mal-intencionadas, como engenharia social.
+
+Senhas e tokens de API: Informações críticas de acesso a sistemas, integrações e plataformas de autenticação, protegidas em arquivos internos criptografados e com controle de acesso rigoroso, visíveis apenas para desenvolvedores e administradores de sistemas. Um vazamento comprometeria a segurança total do sistema.
+Prevenção de Vazamentos de Dados
+
+A ClickSeguro emprega medidas técnicas e administrativas robustas para proteger os dados:
+
+### Medidas Técnicas:
+Criptografia de dados sensíveis em repouso e em trânsito.
+Autenticação em dois fatores (2FA) para acesso ao Google Workspace e sistemas internos.
+Controle de permissões baseado em função, limitando o acesso ao necessário.
+Backups automáticos criptografados em servidores externos seguros.
+Firewall local e regras de segurança específicas nos servidores.
+Sistema operacional imutável (NixOS) em setores críticos para impedir instalações ou alterações não autorizadas.
+Armazenamento de credenciais criptografadas em variáveis de ambiente.
+Medidas Administrativas:
+Política de acesso com privilégio mínimo necessário.
+Treinamento regular sobre segurança digital (senhas fortes, phishing, comportamento seguro online).
+Monitoramento constante de acessos e logs de atividade.
+Proibição de dispositivos externos não autorizados e não verificados.
+Resposta a Vazamentos de Dados
+
+Em caso de vazamento, a ClickSeguro possui um plano de resposta a incidentes que inclui:
+Ação imediata da equipe técnica para conter e identificar a causa.
+Comunicação clara e transparente com clientes e usuários afetados.
+Revisão e reforço das áreas de segurança vulneráveis.
+Atualização dos protocolos internos para evitar novas ocorrências.
 ## 5. Considerações Finais
 ### Custos totais:
 #### Custos mensais
