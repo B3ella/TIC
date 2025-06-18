@@ -47,48 +47,43 @@ Serão apresentados os equipamentos físicos e os softwares essenciais de cada s
 Responsável por atrair, engajar e desenvolver talentos alinhados à estratégia do negócio. Atua desde a seleção e employer branding até a definição de metas (OKRs), treinamento, remuneração e rotinas do departamento pessoal, garantindo uma gestão de pessoas eficiente e estratégica. Pensando no bem estar do trabalhador e da empresa.
 Utiliza ferramentas como sistemas de RH (como Gupy, Kenoby, Sólides ou Senior), plataformas de OKRs, ERPs, planilhas, softwares de folha de pagamento, além de apps de comunicação (Slack, Teams) e videoconferência (Zoom, Google Meet). E equipamentos tanto na empresa, como desktops quanto fora com notebook cuidando de manutenções, chamadas inesperadas ou trabalhos em casa (homeoffice).
 ### 3- Desenvolvedores (5 funcionários)
+Para garantir a integridade conceitual dos projetos, o desenvolvimento de sistemas será feito por desenvolvedores full-stack. Outras preocupações, como deploy e QA foram destinadas à outros cargos pra permitir que poucas mentes consigam se concentrar no código do projeto
+
 Desenvolvedores Full Stack são profissionais que são estruturados para realizar etapas do desenvolvimento de software, desde a parte de interface visual (front-end) até a estrutura e lógica por trás do sistema back-end.
 #### Desenvolvedor Sênior:
-Profissional apto com liderança e segurança com o conhecimento da área, pronto para realizar tarefas estratégicas e lideradas por ele, o pilar técnico, a referência para o resto da equipe, para liderar e mentorship de colegas menos experientes. Onde enfrentam desafios que testam criatividade e habilidade.
-##### Habilidades:
--	Responsável pela equipe
--	Implementação de sistemas da segurança
--	Arquitetura de Microserviços
--	Conhecimento avançado em pelo menos uma linguagem de programação, como Java, C#, Python ou JavaScript
--	Configurar uma pipeline de Continuous Integration & Continuous Delivery (CI/CD)
--	Desenvolver integrações, tais como sistemas de pagamento, envio de emails, SMS, entre outros
--	Avançado em Banco de Dados (Performance, escalabilidade, bancos não-SQL)
+Profissional responsável por liderar a equipe de desenvolvimento. Com segurança e amplo conhecimento da área. É o pilar técnico da equipe e tem a última palavra sobre qual das possíveis diferentes abordagens tomar.
+##### Habilidades necessárias e responsabilidades:
+- Responsável pela equipe e desenvolvimento de todos os sistemas produzidos na empresa
+- Implementação de melhores práticas de segurança e código limpo
+- Conhecimento avançado nas linguagens de programação usadas na empresa
+- Desenvolver integrações, tais como sistemas de pagamento, envio de emails, SMS, Comunicação com a API da fechadura eletrônica e outros
+- Entendimento avançado em Bancos de Dados SQL (MySQL) e No-SQL(Cassandra e kafka), principalmente sobre optimização de queries e modelagem dos bancos
 #### Desenvolvedor Junior:
-Profissional apto em ser suporte do Sênior, está para realizar tarefas mandadas pelo sênior, mas tarefas menores, como consertar bugs, manutenção de código existente e etc…
+É a sombra do senior, deve ser capaz de fazer tudo que o senior faz mesmo que sem tanto domínio e eficiência. Sua função, além de dar suporte ao senior em implementação de features e correção de bugs, é pensar em outras possíveis abordagens para o desenvolvimento do sistema, sendo uma mente onde o senior pode rebater e discutir suas ideias
 ##### Habilidades:
--	Lógica de programação
--	Estrutura de dados e algoritmos
--	Básico de alguma linguagem
--	Controle de versão (Git)
--	Conhecimento básico e geral de um Web Framework
+- Conhecimento básico nas linguagens de programação usadas na empresa
+- Conhecimento dos frameworks utilizados na empresa
+- Entendimento básico de Bancos de Dados SQL (MySQL) e No-SQL(Cassandra e kafka), principalmente sobre optimização de queries e modelagem dos bancos
 #### Analista de dados:
-Profissional apto de coletar, interpretar e apresentar dados da empresa, que ajudam decisões técnicas e de produto, para extrair dados e insights úteis para responder perguntas de interesse sobre a empresa.
+Profissional apto de coletar, interpretar e apresentar dados da empresa. Responsáveis tanto por análises pontuais para outros setores quanto pelo desenvolvimento de análises integradas para os sistemas desenvolvidos por nós.
 ##### Habilidades:
--	Manipulação de dados (Excel)
--	SQL / Python / linguagem R
--	Acessar banco de dados para recuperação de informações
--	Ler arquivos (CSV)
--	Consultar APIs e etc
--	Limpar dados (Pandas)
--	Análise de estatísticas sobre algoritmo do alcance da empresa (Extração de insights)
--	Montar visualização das informações extraídas (Tableau, Power BI, Looker Studio)
+- Limpeza, Manipulação e análise de dados
+- Desenvolvimento de dashboards para outros setores
+- Desenvolvimento de APIs (em conjunto com os desenvolvedores junior e senior) para gerar integrações com os sistemas desenvolvidos
+- Conhecimento em SQL e Python (Bibliotecas de ciência de dados como pandas, scikitLearn, etc...) além de capacidade de fazer queries em bases de dados NoSQL (cassandra e kafka)
+- Capacidade de realizar ETLs para manipulação de grandes volumes de dados quando necessário
 #### Administrador de sistemas:
 O responsável por cuidar da infraestrutura da empresa, como as configurações, máquinas, servidores, deploys, e o ambiente de produção, a integridade da empresa. Assim, ele protege e assegura que os recursos de tecnologia da informação estejam disponíveis na condição de uso para todos os desenvolvedores.
 ##### Habilidades:
--	Conhecimentos gerais em redes e em Sistemas Operacionais
--	Automatização de tarefas
--	Monitoramento e segurança da infraestrutura
--	Conhecimento em Linux, Windows
--	Utilizar ferramentas de deploy (Docker, Kubernetes, Jenkins, GitHub)
--	Monitoramento (Grafana, Prometheus)
--	Gerenciamento (AWS, Azure, GCP)
+- Conhecimentos gerais em redes e em Sistemas Operacionais Linux
+- Conhecimentos avançados em NixOs
+- Automatização de tarefas com scripts bash e outras ferramentas
+- Monitoramento e segurança da infraestrutura
+- Desenvolvimento de pipelines CI/CD
+- Monitoramento de performance e segurança
+- Gerenciamento das plataformas usadas para deploy (AWS, Vercel, Hostinger)
 #### Quality Assurance:
-Profissional responsável por garantir que o sistema funcione com excelência, sem bugs, com boa satisfação e forma confiável para os demais. Para isso ser executado, o profissional testa os sistemas antes de ir pro ar, automatiza testes, cria cenários, previne erros, e até ajuda o time a melhorar o produto. Garantindo o atendimento pleno do cliente e o funcionamento para os demais.
+Profissional responsável por garantir que o sistema funcione com excelência, sem bugs, com boa satisfação e forma confiável para os demais. Para isso ser executado, o profissional testa os sistemas antes de ir pro ar, automatiza testes, cria cenários, previne erros, e ajuda o time a melhorar o produto. Garantindo o atendimento pleno do cliente e o funcionamento para os demais. É a ponte entre os clientes e o time de desenvolvimento, responsável por entender profundamente as necessidades e expectativas do cliente.
 ##### Habilidades:
 -	Capacidade de executar testes
 -	Script e Programação
@@ -96,8 +91,8 @@ Profissional responsável por garantir que o sistema funcione com excelência, s
 -	Automação web
 -	Git
 -	Métricas de bugs
--	Ferramentas de testes (Jira, Excel, Qase, Trello)
--	Estratégia de testes manuais, Selenium, Cypress
+-	Ferramentas e frameworks de testes 
+-	Estratégia de testes manuais
 -	Ferramentas auxiliares: Figma (para conferir design), Postman (para APIs)
 ### **4 – Marketing (3 funcionários)**
 #### Coordenação de Marketing  
