@@ -197,6 +197,7 @@ Crucial P3 Plus 2TB PCIe M.2 2280 SSD para cada notebook do setor de design (R$ 
 
 Fone JBL tune 125 BT (R$ 219,00 no site da JBL)
 ## Redes
+Utilizamos a topografia hierárquica, porque ela garante melhor organização, controle e gerenciamento da rede, dividindo os dispositivos em camadas, como acesso, distribuição e núcleo. Ela permite fácil expansão, com a adição de novos dispositivos sem afetar toda a estrutura, além de melhorar a performance, reduzindo o congestionamento de dados. Também facilita a identificação e solução de problemas.
 ## Segurança
 A segurança dos dados é tratada como prioridade na ClickSeguro. Por lidar com informações sensíveis de clientes e colaboradores, a empresa adota práticas e ferramentas específicas para evitar vazamentos e manter a confidencialidade, a integridade e a disponibilidade dos dados.
 ### Senhas
