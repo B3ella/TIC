@@ -206,6 +206,27 @@ A rede pública vai ser usada só para serviços que não precisam acessar nosso
 Também vamos usar uma whitelist, ou seja, só permitiremos acesso de IPs, domínios ou dispositivos que forem autorizados. Tudo o que não for confiável será bloqueado.
 Por exemplo:O banco de dados e o Bitwarden só poderão ser acessados pela VPN ou rede local;O painel de deploy (como Vercel e AWS) será acessado só por IPs dos desenvolvedores;As APIs internas e os leitores de crachá vão funcionar só com notebooks ou dispositivos cadastrados; Os dashboards administrativos também precisarão de VPN e IP autorizado.
 Com isso, mesmo que alguém descubra senhas, não vai conseguir acessar se não estiver num local confiável.
+### Cultura de cyber segurança 
+A Click seguros garante a proteção de dados da empresa e dos usuários, evitando invasões, golpes, vazamento de informações. Reduzindo risco de falhas humanas e ataque cibernéticos. Onde a rede e os sistemas são mantidos em segurança, a cultura está enraizada na nossa empresa, trazendo uma infraestrutura com conscientização e segurança.
+
+Contudo, podemos analisar que a prática dessa conscientização não é apenas uma prática técnica, e sim de um conjunto, conjunto empresa, onde envolve a proteção e organização dos riscos digitais, onde deve ser treinada, comunicada e realizada dentro da empresa.
+### Como vamos implementar a cultura 
+
+A Click Seguros incentiva a prática estratégica, como *treinamentos constantes*
+- Realizar capacitações e workshops sobre boas práticas.
+- Simular ataques (como phishing) para testar e preparar os respectivos colaboradores.
+
+*Políticas claras de segurança*
+- Para uso seguro dos equipamentos e rede.
+- ⁠Regras e normas de segurança (sobre acesso, senha, e compartimentos de informações).
+
+*Manutenção constante dos valores implementados da empresa*
+- Divulgar dicas e sempre relembrar de normas formais, como em cartazes ou murais, visando o perigo dos riscos e da falta de responsabilidade. 
+- ⁠Utilizar sempre comunicação com todos.
+
+*Uso de ferramentas de segurança*
+- Implementação de antivírus, firewalls, 2FA, e sempre realizando backups.
+- ⁠Monitoramento das redes.
 ### Senhas
 Para garantir a integridade das senhas usaremos um password manager, permitindo senhas complexas e aleatórias sem que nossos funcionários precisem memorizar qualquer uma delas.
 
